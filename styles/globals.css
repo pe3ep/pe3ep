@@ -26,7 +26,45 @@ li {
 h1,
 h2,
 h3 {
+  line-height: 1em;
   font-size: 60px;
   font-weight: 900;
   color: #111111;
+}
+
+.bar-of-progress {
+  z-index: 999999;
+}
+
+/* util */
+.btn {
+  padding: 1em 2em;
+  border: none;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  border-radius: 0.5em;
+  color: white;
+  font-weight: normal;
+}
+
+.btn[data-type='primary'] {
+  background-color: rgb(14 165 233);
+  filter: drop-shadow(0 10px 8px rgb(14 165 233 / 0.5))
+    drop-shadow(0 4px 3px rgb(14 165 233 / 0.1));
+}
+
+.btn[data-type='secondary'] {
+  background-color: rgb(217 70 239);
+  filter: drop-shadow(0 10px 8px rgb(217 70 239 / 0.5))
+    drop-shadow(0 4px 3px rgb(217 70 239 / 0.1));
+}
+
+.btn:focus {
+  outline: black solid 2px;
+}
+
+.btn:hover {
+  outline: rgb(0 0 0 / 0.1) solid 2px;
+  outline-offset: 2px;
 }

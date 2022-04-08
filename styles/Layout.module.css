@@ -99,8 +99,6 @@
 /* main */
 
 .mainContent {
-  width: min(100%, 768px);
+  width: min(100%, 1024px);
   margin-inline: auto;
-  padding: 1rem;
-  padding-bottom: 100rem;
 }
