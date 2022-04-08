@@ -1,4 +1,4 @@
-![Banner](https://github.com/pe3ep/Pe3ep/blob/master/git/assets/banner.png)
+![Banner](https://github.com/pe3ep/pe3ep/blob/main/git/assets/banner.png)
 
 ![Pe3ep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pe3ep&show_icons=true&theme=react)
 
