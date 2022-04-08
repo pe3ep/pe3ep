@@ -18,11 +18,13 @@ const Navbar = ({ children }) => {
 
       <div className={styles.nav}>
         <nav className={styles.navigationFlow}>
-          <img
-            src="assets/img/png/logo.png"
-            alt="Website logo"
-            className={styles.logo}
-          />
+          <Link href="/">
+            <img
+              src="assets/img/png/logo.png"
+              alt="Website logo"
+              className={styles.logo}
+            />
+          </Link>
           <button onClick={() => setOpen(!open)} className={styles.btn}>
             <FontAwesomeIcon
               className={styles.btnIcon}
