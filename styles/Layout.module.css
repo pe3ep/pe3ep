@@ -4,7 +4,7 @@
   position: sticky;
   display: flex;
   justify-content: center;
-  z-index: 3000;
+  z-index: 8000;
   top: 0;
   width: 100%;
   background: white;
@@ -19,16 +19,11 @@
   color: #111;
 }
 
-.primaryNavigation {
+.navigationFlow {
   display: flex;
   width: min(100%, 830px);
   justify-content: space-between;
   align-items: center;
-}
-
-.primaryNavigation ul {
-  display: flex;
-  gap: 12px;
 }
 
 .logo {
@@ -36,15 +31,76 @@
   border-radius: 0.35rem;
 }
 
+.primaryNav {
+  display: flex;
+  gap: 1rem;
+}
+
+.btn {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .primaryNav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 60%;
+    background: rgba(255 255 255);
+    border-left: #ccc solid 1px;
+    padding: 1rem;
+    gap: 0;
+    padding-block-start: 7rem;
+    transition: transform 0.256s ease;
+    overflow: hidden;
+  }
+
+  .primaryNav[aria-expanded='false'] {
+    transform: translateX(100%);
+  }
+
+  .primaryNav[aria-expanded='true'] {
+    transform: translateX(0);
+  }
+
+  .primaryNav li {
+    padding-block: 0.5rem;
+    width: 70%;
+    /* border-bottom: #ccc solid 2px; */
+  }
+
+  .primaryNav li:last-child {
+    border: none;
+  }
+
+  .btn {
+    display: flex;
+    z-index: 9999;
+    justify-content: center;
+    align-items: center;
+    background: none;
+    border: none;
+  }
+
+  .btnIcon[data-active='true'] {
+    display: block;
+  }
+
+  .btnIcon[data-active='false'] {
+    display: none;
+  }
+}
+
 /* main */
 
 .mainContent {
-  width: min(100%, 730px);
+  width: min(100%, 768px);
   margin-inline: auto;
   padding: 1rem;
-}
-
-/* media */
-
-@media (max-width: 730px) {
+  padding-bottom: 100rem;
 }

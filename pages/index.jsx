@@ -8,7 +8,6 @@ export default function Home() {
       <Head>
         <title>Main page</title>
       </Head>
-
       <h1>Hello!</h1>
       {/* <footer className={styles.primaryFooter}>
         <div>
