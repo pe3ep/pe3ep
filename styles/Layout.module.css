@@ -1,0 +1,50 @@
+/* nav */
+
+.nav {
+  position: sticky;
+  display: flex;
+  justify-content: center;
+  z-index: 3000;
+  top: 0;
+  width: 100%;
+  background: white;
+  border-bottom: 1px solid #ccc;
+  color: white;
+  padding-block: 1rem;
+  padding-inline: 2rem;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #111;
+}
+
+.primaryNavigation {
+  display: flex;
+  width: min(100%, 830px);
+  justify-content: space-between;
+  align-items: center;
+}
+
+.primaryNavigation ul {
+  display: flex;
+  gap: 12px;
+}
+
+.logo {
+  height: 3rem;
+  border-radius: 0.35rem;
+}
+
+/* main */
+
+.mainContent {
+  width: min(100%, 730px);
+  margin-inline: auto;
+  padding: 1rem;
+}
+
+/* media */
+
+@media (max-width: 730px) {
+}
