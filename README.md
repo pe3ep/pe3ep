@@ -1,7 +1,8 @@
+# Hi! My name is Pe3ep
 ![Banner](https://github.com/pe3ep/pe3ep/blob/main/git/assets/banner.png)
 
 ![Pe3ep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pe3ep&show_icons=true&theme=react)
-
+### Here's what I know:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
