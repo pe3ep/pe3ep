@@ -1,7 +1,7 @@
 # My name is Pe3ep.
 ![Banner](https://github.com/pe3ep/pe3ep/blob/main/git/assets/banner.png)
 ### :briefcase: About me
-Hi! My real name is Andrew and I love Web! I am currently learning new frameworks, such as React and Next.
+Hi! My real name is Andrew and I love Web! I am currently learning new frameworks, such as React and Next (self-taught).
 
 If you want to contact me, you can do it [here](https://solo.to/pe3ep).
 
