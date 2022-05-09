@@ -3,7 +3,7 @@
 ### :briefcase: About me
 Hi, my real name is _Andrew_ and I love Web! I am currently learning new frameworks, such as **React** and **Next** (self-taught).
 
-If you want to contact me, you can do it **[here](https://solo.to/pe3ep)**.
+If you want to contact me, you can do it **[here](https://ayo.so/pe3ep)**.
 
 ![Pe3ep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pe3ep&show_icons=true&theme=react)
 
