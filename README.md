@@ -3,7 +3,7 @@
 ### :briefcase: About me
 Hi, my real name is _Andrew_ and I love Web! I am currently learning new frameworks, such as **React** and **Next** (self-taught).
 
-If you want to contact me, you can do it **[here](https://ayo.so/pe3ep)**.
+If you want to contact me, you can do it **[here](https://pe3ep.ru/discord)**.
 
 ![Pe3ep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pe3ep&show_icons=true&theme=react)
 
@@ -25,6 +25,6 @@ If you want to contact me, you can do it **[here](https://ayo.so/pe3ep)**.
 - [ ] Learn JS ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
 - [ ] Learn React with Next ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/23)
 - [ ] Launch ION in the production ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/47)
-- [ ] Make my website with blog ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) 
+- [x] Make my website with blog ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 
 
 **... and more!**
