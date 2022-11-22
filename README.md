@@ -22,9 +22,8 @@ If you want to contact me, you can do it **[here](https://pe3ep.ru/discord)**.
 
 ### :books: My goals for 2022:
 - [x] Setup README.md for my profile on GitHub ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-- [ ] Learn JS ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
-- [ ] Learn React with Next ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/23)
-- [ ] Launch ION in the production ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/47)
+- [x] Learn JS ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+- [x] Learn React with Next ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 - [x] Make my website with blog ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 
 
 **... and more!**
