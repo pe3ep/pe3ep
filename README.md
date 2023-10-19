@@ -1,7 +1,7 @@
 # My name is Pe3ep.
 ![Banner](https://github.com/pe3ep/pe3ep/blob/main/git/assets/banner.png)
 ### :briefcase: About me
-Hi, my real name is _Andrew_ and I love Web! I am currently learning new frameworks, such as **React** and **Next** (self-taught).
+Hi, my real name is _Andrew_ and I love Web! I know some webframeworks, such as **React** and **Next**! I also know a bit of Skript and some Java!
 
 If you want to contact me, you can do it **[here](https://pe3ep.ru/discord)**.
 
@@ -19,11 +19,3 @@ If you want to contact me, you can do it **[here](https://pe3ep.ru/discord)**.
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### :books: My goals for 2022:
-- [x] Setup README.md for my profile on GitHub ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-- [x] Learn JS ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-- [x] Learn React with Next ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-- [x] Make my website with blog ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) 
-
-**... and more!**
