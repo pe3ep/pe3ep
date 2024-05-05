@@ -3,11 +3,7 @@
 ### :briefcase: About me
 Hi, my real name is _Andrew_ and I love Web! I know some webframeworks, such as **React** and **Next**! I also know a bit of Skript and some Java!
 
-If you want to contact me, you can do it **[here](https://pe3ep.ru/discord)**.
-
 ![Pe3ep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pe3ep&show_icons=true&theme=react)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pe3ep&repo=pe3ep-web&theme=react)](https://github.com/pe3ep/ion-app)
 
 ### :pencil2: Here's what I know:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
