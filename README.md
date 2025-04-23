@@ -1,17 +1,50 @@
-# My name is Pe3ep.
 ![Banner](https://github.com/pe3ep/pe3ep/blob/main/git/assets/banner.png)
-### :briefcase: About me
-Hi, my real name is _Andrew_ and I love Web! I know some webframeworks, such as **React** and **Next**! I also know a bit of Skript and some Java!
 
-![Pe3ep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pe3ep&show_icons=true&theme=react)
+### Hello!
 
-### :pencil2: Here's what I know:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+I'm Andrew, aka Pe3ep. I am a frontend developer and designer and soon-to-be highschool graduate.
+
+I've been coding ever since I was 11 years old. In my free time I enjoy to play videogames and working out.
+
+[You can find my socials here](https://pe3epwithyou.vercel.app/)
+
+---
+
+### Languages
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+
+### Technology
+
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+
+### Apps I use and love
+
+[![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=white)](#)
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+
+---
+
+### Periphirals
+
+- Mouse: [Razer Viper 8khz](https://www.razer.com/mena-en/gaming-mice/Razer-Viper-8KHz)
+- Keyboard: [Red Square Keyrox TKL](https://www.dns-shop.ru/product/445d725fcb3fed20/klaviatura-provodnaa-red-square-keyrox-tkl-rsq-20030/)
+- Monitor: [Samsung 27″ CJG5](https://www.samsung.com/za/support/model/LC27JG50QQUXEN/)
+- Microphone: [AT2020USB+](https://www.audio-technica.com/en-us/at2020usb)
+- Headphones: [ATH-M50xBT2](https://www.audio-technica.com/en-us/ath-m50xbt2)
+
+### My PC
+
+- CPU: Intel i5-10400F
+- GPU: AMD Radeon RX 580
+- RAM: 16gb
+- Storage: 512gb SSD (Samsung + Kingston)
