@@ -2,7 +2,7 @@
 
 ### Hello!
 
-I'm Andrew, aka Pe3ep. I am a frontend developer and designer and soon-to-be highschool graduate.
+I'm Andrew, aka Pe3ep. I am a frontend developer, designer and soon-to-be highschool graduate.
 
 I've been coding ever since I was 11 years old. In my free time I enjoy to play videogames and working out.
 
