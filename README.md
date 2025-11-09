@@ -6,7 +6,7 @@ I'm Andrew, aka Pe3ep. I am a frontend developer, designer and a university stud
 
 I've been coding ever since I was 11 years old. In my free time I enjoy to play videogames and working out.
 
-[You can find my socials here](https://pe3epwithyou.vercel.app/)
+[You can find my socials here](https://pe3epwithyou.cc/)
 
 ---
 
